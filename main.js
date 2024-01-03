@@ -12,7 +12,6 @@ list1.addEventListener('click',function(event){
     document.getElementById('list').animate(keyframes1, options1);
     setTimeout(()=>{},600);
 })
-
   //list exit button
   let keyframes2 = [
     {opacity: 1},
